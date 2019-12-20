@@ -1,0 +1,6 @@
+framework module Pods_SalesforceSwift_Tests {
+  umbrella header "Pods-SalesforceSwift_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
